@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-dangerously-set-inner-html",
+  "versions": [
+    {
+      "commit": "15f7dc7fc4bd08e06f4f9731c247afebdef4051e",
+      "parsed_at": "2026-11-07T01:33:59.383558+00:00",
+      "filetree": "filetree/15f7dc7fc4bd08e06f4f9731c247afebdef4051e.nq.gz",
+      "blobs": [
+        "blob/5714e06781976fcc45a44428010df4fd0f706da5.nq.gz",
+        "blob/71d9a95c8dedf68801d6dcf6387f38ad0384a1a2.nq.gz",
+        "blob/b2d024ad1dbb0bcf6d6acd7009f7ae7517e2904a.nq.gz",
+        "blob/0bf77501804861ef4ea39b5bc728e8aaf7097889.nq.gz",
+        "blob/b1fd20c1356f17037eedacdb734ff7dffc539ae4.nq.gz",
+        "blob/6e5a5323fce38a29805a993d06d8ce585bebb14b.nq.gz",
+        "blob/8cf7af30d0a91e6de7916174ff91ac8d28d5f2a5.nq.gz",
+        "blob/177d39ef54d03a868f942ac8b961eafd635b6647.nq.gz",
+        "blob/859fe0c9c855809071dc6410218c59ea6de66350.nq.gz",
+        "blob/bc8371522911dae5c57fa15028a9c84eeb316709.nq.gz",
+        "blob/59a47e2aeea1668f98b6d78a41a69784735971ab.nq.gz",
+        "blob/7f669a727dda15d849a4637023ee362e953ec852.nq.gz",
+        "blob/18d12cfe42742743f9cd4d5a567e90ef3196f14d.nq.gz",
+        "blob/cd8c47d3d7e46ef695ddb5cc3b9c2d4dfc633d8d.nq.gz",
+        "blob/e7d1d6f448499cc17acb592f14b6cd6fc5e711d3.nq.gz",
+        "blob/ffcc925ae2ade5f8b863840f7c8a0e337341410c.nq.gz",
+        "blob/0c305818b3fd759af2366cd2046309f5911494fc.nq.gz",
+        "blob/dbd8407b1d2e6d9b101b58913a0e8fb8b44a674f.nq.gz",
+        "blob/dc6a6f3bb238b883feeb9a6ca99ef461533d96f4.nq.gz",
+        "blob/29a14acbb0691f6395d402d2c95504c26a731b97.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
