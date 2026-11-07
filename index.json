@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-dangerously-set-inner-html",
+  "versions": [
+    {
+      "commit": "15f7dc7fc4bd08e06f4f9731c247afebdef4051e",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:35:39.199432+00:00"
+    }
+  ]
+}
